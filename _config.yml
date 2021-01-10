@@ -12,7 +12,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Study
+    - name: Work
 
 footer:
   show_powered_by: true
