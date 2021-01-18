@@ -6,12 +6,12 @@ items:
   - title: 1주차 스터디
     image:
       src: 
-      alt: water
+      alt: 
     description: 1주차 스터디 내용입니다. 현재 준비중입니다.
   - title: 2주차 스터디
     image:
       src: 
-      alt: sand
+      alt: 
     description: 2주차 스터디 내용입니다. 현재 준비중입니다.
 ---
 
