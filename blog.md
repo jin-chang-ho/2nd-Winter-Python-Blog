@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+제가 공부한 걸 공유하는 공간입니다.
 <br />
