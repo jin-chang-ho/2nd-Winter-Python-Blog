@@ -17,8 +17,8 @@ items:
     
   - title: 3주차 스터디
     image:
-      src: /assets/img/work/sand.png
-      alt: sand
+      src: /assets/img/work/universe.png
+      alt: universe
     description: 
 ---
 
