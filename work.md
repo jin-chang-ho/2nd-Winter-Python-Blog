@@ -3,18 +3,25 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: 1주차 스터디
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+    description: 
+    
+  - title: 2주차 스터디
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: 
+    
+  - title: 3주차 스터디
+    image:
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: 
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+제가 공부한 걸 공유하는 공간입니다.
 <br />
 <br />
