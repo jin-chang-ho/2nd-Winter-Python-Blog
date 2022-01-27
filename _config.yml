@@ -23,7 +23,7 @@ footer:
       link: ckdgh8204@naver.com
   follow:
     - name: GitHub
-      link: http://github.com/jin-chang-ho
+      link: https://github.com/jin-chang-ho
 # Build settings
 markdown: kramdown
 sass:
